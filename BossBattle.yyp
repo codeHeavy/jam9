@@ -159,6 +159,7 @@
             }
         },
         {
+>>>>>>> 6a1e3403c8de273b7022826a3050472312470b8a
             "Key": "5a29b576-ebad-405c-96e3-0c55ee878671",
             "Value": {
                 "id": "a102630d-2dd4-413b-a502-b89021c6ee65",
@@ -247,14 +248,6 @@
             }
         },
         {
-            "Key": "a354afd3-e505-443f-a48f-b37dc09bc4fe",
-            "Value": {
-                "id": "8d3c28ca-6b9b-48ea-8108-9b1e7a5350de",
-                "resourcePath": "objects\\Game\\Game.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "a906512e-5b6f-4441-b884-20c807690ecf",
             "Value": {
                 "id": "f4e98a95-42db-4912-bea0-3246e206024a",
@@ -268,14 +261,6 @@
                 "id": "5dd148f4-f298-434e-9d22-a6731e800de5",
                 "resourcePath": "sprites\\Ship\\Ship.yy",
                 "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "abe9dc2e-04f8-4d29-906c-b05a4919e774",
-            "Value": {
-                "id": "811b73d0-50f0-4bdb-9bb6-918cd106447a",
-                "resourcePath": "objects\\Option\\Option.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -300,6 +285,14 @@
                 "id": "4a2fa614-3eba-425a-942b-bc5fe61862ea",
                 "resourcePath": "views\\bf1b7014-14c6-419f-84e1-0df8657a20f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5007197-7079-4ba0-8849-676261b1f8cb",
+            "Value": {
+                "id": "72bfc90e-3e74-4d84-bd3f-ebad691189ca",
+                "resourcePath": "fonts\\fontButton\\fontButton.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -343,10 +336,10 @@
             }
         },
         {
-            "Key": "fa5c20e5-1e9b-4e28-893c-81ade9586e3c",
+            "Key": "f5fa297f-25d1-4766-899d-fab9f371aa0a",
             "Value": {
-                "id": "7b8fa19e-377d-4e8e-9cbd-8c0c3dba9bf5",
-                "resourcePath": "objects\\Title\\Title.yy",
+                "id": "efae1097-ef2a-495b-8ece-2f9c45bcc840",
+                "resourcePath": "objects\\UI_Transitions\\UI_Transitions.yy",
                 "resourceType": "GMObject"
             }
         }
