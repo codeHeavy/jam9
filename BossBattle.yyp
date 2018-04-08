@@ -127,19 +127,11 @@
             }
         },
         {
-            "Key": "407a216d-ff41-4d10-be23-cc37e0154e4f",
+            "Key": "53788d74-fadf-423b-a87b-efaa7a61faf2",
             "Value": {
-                "id": "cec7bba6-8c14-42ec-a565-1d02d7c4d5fb",
-                "resourcePath": "fonts\\fontButton\\fontButton.yy",
-                "resourceType": "GMFont"
-            }
-        },
-        {
-            "Key": "4eedd153-cfeb-40d2-9403-b9f83da76574",
-            "Value": {
-                "id": "d9e4a75c-abd8-4785-94ed-f5dd80c667fb",
-                "resourcePath": "sprites\\Health\\Health.yy",
-                "resourceType": "GMSprite"
+                "id": "c1a1be2d-255b-4b2a-9b25-f887af4b6e47",
+                "resourcePath": "objects\\Credit\\Credit.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -151,19 +143,11 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "5afbed98-5cdc-470d-abce-5b1df5934506",
-            "Value": {
-                "id": "a8c80df2-447d-4bcf-b4f6-23a62b76d208",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
-                "resourceType": "GMSprite"
-=======
             "Key": "5c6f18d8-3955-4579-bdbc-f5193bd6baba",
             "Value": {
                 "id": "77078cfb-6b1d-48dc-bb5a-2119fa798328",
                 "resourcePath": "objects\\obj_ship\\obj_ship.yy",
                 "resourceType": "GMObject"
->>>>>>> 92fe792df585a44034002c4c08a3bf7638f198ec
             }
         },
         {
@@ -215,11 +199,11 @@
             }
         },
         {
-            "Key": "9f1486e9-7e21-40e9-88a0-df6ab31ae0b2",
+            "Key": "a354afd3-e505-443f-a48f-b37dc09bc4fe",
             "Value": {
-                "id": "473752fb-1caa-4f3f-8dc6-ba382518437f",
-                "resourcePath": "sprites\\sprite1\\sprite1.yy",
-                "resourceType": "GMSprite"
+                "id": "8d3c28ca-6b9b-48ea-8108-9b1e7a5350de",
+                "resourcePath": "objects\\Game\\Game.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -231,8 +215,6 @@
             }
         },
         {
-<<<<<<< HEAD
-=======
             "Key": "ab74bffb-45df-4381-9a94-21facf1f1e3f",
             "Value": {
                 "id": "5dd148f4-f298-434e-9d22-a6731e800de5",
@@ -249,7 +231,6 @@
             }
         },
         {
->>>>>>> 92fe792df585a44034002c4c08a3bf7638f198ec
             "Key": "b37c8f87-df47-49a0-adef-34655fc2aec9",
             "Value": {
                 "id": "be051ef5-f375-4f52-95ea-ea4fe43580b4",
@@ -274,17 +255,10 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "c905e1c8-fcf8-438b-b1b8-40a248eedc79",
-            "Value": {
-                "id": "b18b4d87-f4a1-4e82-bfbd-d45a3e0ffb08",
-                "resourcePath": "objects\\UI_Transitions\\UI_Transitions.yy",
-=======
             "Key": "cbfe0f2d-97f0-42dd-9f8c-2221839f63f2",
             "Value": {
                 "id": "9c5313db-09ba-4f48-a1fc-1f38703f1659",
                 "resourcePath": "objects\\obj_bullet\\obj_bullet.yy",
->>>>>>> 92fe792df585a44034002c4c08a3bf7638f198ec
                 "resourceType": "GMObject"
             }
         },
@@ -305,19 +279,11 @@
             }
         },
         {
-<<<<<<< HEAD
-            "Key": "dbef19e9-bb74-4637-b936-7483a08e0307",
-            "Value": {
-                "id": "f01686f5-c00b-44af-beab-3e07c25d6f79",
-                "resourcePath": "objects\\HealthBar\\HealthBar.yy",
-                "resourceType": "GMObject"
-=======
             "Key": "d4761112-dbc9-405f-ba2e-9f003854eea7",
             "Value": {
                 "id": "e38c5f50-d656-43d1-aa9d-0cb6f00718e0",
                 "resourcePath": "sprites\\Bullet\\Bullet.yy",
                 "resourceType": "GMSprite"
->>>>>>> 92fe792df585a44034002c4c08a3bf7638f198ec
             }
         },
         {
@@ -329,11 +295,11 @@
             }
         },
         {
-            "Key": "f5d797f3-9962-4701-9523-3fb7e61ba99f",
+            "Key": "fa5c20e5-1e9b-4e28-893c-81ade9586e3c",
             "Value": {
-                "id": "b124f804-dde5-4cae-9515-e84bdc76da53",
-                "resourcePath": "fonts\\fontHUD\\fontHUD.yy",
-                "resourceType": "GMFont"
+                "id": "7b8fa19e-377d-4e8e-9cbd-8c0c3dba9bf5",
+                "resourcePath": "objects\\Title\\Title.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
