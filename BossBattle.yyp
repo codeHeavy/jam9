@@ -1,5 +1,5 @@
 {
-    "id12": "3fa8d52a-1b0c-4340-ae40-eae0732697e0",
+    "id": "3fa8d52a-1b0c-4340-ae40-eae0732697e0",
     "modelName": "GMProject",
     "mvc": "1.0",
     "IsDnDProject": false,
@@ -31,7 +31,7 @@
     },
     "resources": [
         {
-            "Key": "03a03b41-7489-4708-862c-3a5fd84a163b11",
+            "Key": "03a03b41-7489-4708-862c-3a5fd84a163b",
             "Value": {
                 "id": "25852681-2ec6-4df6-95fe-845fea0c2d81",
                 "resourcePath": "views\\03a03b41-7489-4708-862c-3a5fd84a163b.yy",
