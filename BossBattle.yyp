@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "1b2b3018-e816-4f7d-8a17-c78c1f47bb7a",
+            "Value": {
+                "id": "fd79a663-13dd-41a6-b3d7-e585b21bdbf8",
+                "resourcePath": "sprites\\Impulse\\Impulse.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1b4b82e2-285e-4088-b409-e25dc0f6a96d",
             "Value": {
                 "id": "bc10c837-6cdb-4a04-859b-640374f9ffc7",
@@ -127,6 +135,22 @@
             }
         },
         {
+            "Key": "2cf3ce34-d2e1-4cd8-9bab-74e2b8eb9363",
+            "Value": {
+                "id": "b1d12234-24c4-4d07-86fe-13c026db34a3",
+                "resourcePath": "objects\\obj_laser\\obj_laser.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "334adc9b-610f-415d-9404-71df55cfd4bc",
+            "Value": {
+                "id": "3bb2f5ba-34b1-4908-9b76-af44dceb16a0",
+                "resourcePath": "objects\\obj_impulse\\obj_impulse.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "53788d74-fadf-423b-a87b-efaa7a61faf2",
             "Value": {
                 "id": "c1a1be2d-255b-4b2a-9b25-f887af4b6e47",
@@ -159,6 +183,14 @@
             }
         },
         {
+            "Key": "70c0080f-d57f-4d60-a7df-7e7688cdbd21",
+            "Value": {
+                "id": "03536e88-b73d-476d-b9d0-714446651229",
+                "resourcePath": "objects\\obj_sheld\\obj_sheld.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "70ddee18-933d-4b88-b6e8-055b738b9d52",
             "Value": {
                 "id": "02392c85-1c58-4640-b011-fa0c4dd052af",
@@ -172,6 +204,22 @@
                 "id": "1bd84d46-3219-4519-8aff-3641d769e1f1",
                 "resourcePath": "views\\7584d69b-6927-40f4-90c8-8a15658cf1c7.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "830eb203-9886-4231-a15a-8e9f35762b9e",
+            "Value": {
+                "id": "54957a31-c039-4406-add4-ff3f467796c1",
+                "resourcePath": "sprites\\sheld\\sheld.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "91852df5-c76e-41e9-86da-1d17e68619c0",
+            "Value": {
+                "id": "f6acee27-07be-4bb1-930d-7bceb50796e9",
+                "resourcePath": "sprites\\Laser\\Laser.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
